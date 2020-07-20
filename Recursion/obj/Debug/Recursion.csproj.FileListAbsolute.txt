@@ -1,0 +1,6 @@
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Recursion\bin\Debug\Recursion.exe.config
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Recursion\bin\Debug\Recursion.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Recursion\bin\Debug\Recursion.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Recursion\obj\Debug\Recursion.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Recursion\obj\Debug\Recursion.pdb
