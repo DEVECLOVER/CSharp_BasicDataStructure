@@ -1,0 +1,6 @@
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\SeqList\bin\Debug\SeqList.exe.config
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\SeqList\bin\Debug\SeqList.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\SeqList\bin\Debug\SeqList.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\SeqList\obj\Debug\SeqList.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\SeqList\obj\Debug\SeqList.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\SeqList\obj\Debug\SeqList.csprojResolveAssemblyReference.cache
