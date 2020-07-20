@@ -1,0 +1,6 @@
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Sort\bin\Debug\Sort.exe.config
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Sort\bin\Debug\Sort.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Sort\bin\Debug\Sort.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Sort\obj\Debug\Sort.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Sort\obj\Debug\Sort.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
