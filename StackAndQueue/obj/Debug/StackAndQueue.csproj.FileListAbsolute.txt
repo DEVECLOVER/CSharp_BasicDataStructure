@@ -1,0 +1,8 @@
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\bin\Debug\StackAndQueue.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\bin\Debug\StackAndQueue.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\obj\Debug\StackAndQueue.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\obj\Debug\StackAndQueue.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\bin\Debug\SeqList.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\New_C#\DataStructure\StackAndQueue\bin\Debug\SeqList.pdb
